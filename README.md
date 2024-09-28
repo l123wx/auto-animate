@@ -1,5 +1,7 @@
 # Auto-animate
 
+https://github.com/formkit/auto-animate
+
 使用很少的代码，就能给页面加上动画
 
 ## 用法（vue）
